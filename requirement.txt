@@ -1,0 +1,2 @@
+This code is written using a built-in library called threading library in python and it also used a built in open function to read the input data from the text file.
+
